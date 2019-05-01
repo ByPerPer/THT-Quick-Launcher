@@ -1,0 +1,11 @@
+{
+    "name": "TurkHackTeam",
+    "description" : "TurkHackTeam için yapılan işinizi kolaylaştıran hızlı başlatıcıdır.",
+    "version": "1.0",
+    "manifest_version": 2,
+	"icons": {"128": "logo.png" },
+    "browser_action": {
+      "default_popup": "tht.html",
+      "default_icon": "logo.png"  
+    }
+  }
